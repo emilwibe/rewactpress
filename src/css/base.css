@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+:root {
+    --clr-primary: 	;
+    --clr-black: #000;
+    --clr-white: #fff;
+}
+::selection {
+    background-color: var(--clr-primary);
+    color: var(--clr-white);
+}
+html, body {
+    margin: 0;
+}

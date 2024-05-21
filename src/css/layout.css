@@ -1,0 +1,19 @@
+.l-wrapper {
+    margin: 0 auto;
+    width: 96%;
+}
+.l-wrapper.xl {
+    max-width: 1280px;
+}
+.l-wrapper.l {
+    max-width:1180px;
+}
+.l-wrapper.m {
+    max-width: 960px;
+}
+.l-wrapper.s {
+    max-width: 768px;
+}
+.l-wrapper.xs {
+    max-width: 600px;
+}
