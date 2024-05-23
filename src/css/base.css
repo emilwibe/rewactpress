@@ -2,9 +2,10 @@
     box-sizing: border-box;
 }
 :root {
-    --clr-primary: 	;
+    --clr-primary: skyblue;
     --clr-black: #000;
     --clr-white: #fff;
+    --font-size-p: 18px;
 }
 ::selection {
     background-color: var(--clr-primary);
@@ -12,4 +13,7 @@
 }
 html, body {
     margin: 0;
+}
+body {
+    font-size: var(--font-size-p);
 }

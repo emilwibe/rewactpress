@@ -1,6 +1,17 @@
 # REWACTPRESS
 
 A WordPress theme build with the React via Vite. This project is made for fun to get to know both the WP REST API better and to use it with React. For now this is not made headless and the project is for this time not production ready.
+
+Why?
+This an early try to make a WordPress Theme with React. Many things are "hacked" as some things coded to get things to work and the later on structured in a way that can be managed for now without any guaranteee that it is the best way. So:
+- There is a risk that I scrap the current structure for another structure
+- There is a chance (if I'm lucky) that I get some great input and ideas from others to change stuff
+- Some decisions haven't been made yet.
+ - Should this theme use theme.json?
+ - What are my final goals with this theme?
+ - Does this even make sense for production in the future?
+ - 
+ 
 ## Authors
 
 - [@emilwibe](https://www.github.com/emilwibe)
