@@ -15,6 +15,7 @@ This an early try to make a WordPress Theme with React. Many things are "hacked"
 ## Authors
 
 - [@emilwibe](https://www.github.com/emilwibe)
+- [@BenjaHinge](https://www.github.com/BenjaHinge)
 
 ## 🚀 About Me
 - Freelance developer
